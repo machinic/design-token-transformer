@@ -1,0 +1,13 @@
+
+build/css/_variables.css
+build/ios-swift/StyleDictionary.swift
+build/ios-swift/StyleDictionaryColor.swift
+build/ios-swift/StyleDictionarySize.swift
+build/ios/StyleDictionaryColor.h
+build/ios/StyleDictionaryColor.m
+build/ios/StyleDictionarySize.h
+build/ios/StyleDictionarySize.m
+build/json/styles.json
+build/less/_variables.less
+build/scss/_variables.scss
+build/*

@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "npm run transform-tokens",
-    "transform-tokens": "style-dictionary build"
+    "transform-tokens": "style-dictionary build && ./substitute-some-comments.sh"
   },
   "repository": {
     "type": "git",
